@@ -1,0 +1,15 @@
+# Secrets — this repo is public. Never relax these.
+.env
+.env.*
+!.env.example
+
+.vercel
+.claude/
+node_modules/
+.DS_Store
+seating-qr.png
+gallery-staging/
+
+# Internal working notes, not for a public repo
+STATE.md
+REFACTOR.md
